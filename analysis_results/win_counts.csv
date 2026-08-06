@@ -1,0 +1,6 @@
+model,wins
+Naive,59
+XGBoost,20
+LightGBM,15
+SeasonalNaive,3
+Chronos,2
